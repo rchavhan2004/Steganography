@@ -1,4 +1,4 @@
-# Data Hiding in Images Using Steganography
+# Data Hiding in Images Using Steganography 🔒
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30fd11ca-6cc6-48c0-b1a0-c280229e8ba5" alt="Encryption Icon" width="120">
